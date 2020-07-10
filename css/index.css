@@ -145,6 +145,8 @@ footer nav a {
     text-decoration: none;
 }
 
+/* styling for header */
+
 header div img {
     padding-top: 30px;
 }
@@ -167,6 +169,8 @@ header div a {
 #road {
     padding-bottom: 20px;
 }
+
+/* Box Designs */
 
 #box1 {
     background-color: aquamarine;
@@ -197,4 +201,14 @@ header div a {
 }
 #box10 {
     background-color: royalblue;
+}
+
+/* seperate styling for about page */
+
+.aboutInfo {
+    border-bottom: 1px dashed black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
 }
