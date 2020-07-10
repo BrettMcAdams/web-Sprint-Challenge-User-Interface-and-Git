@@ -144,3 +144,88 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* styling for header */
+
+header div img {
+    padding-top: 30px;
+}
+
+header nav {
+    display: flex;
+}
+
+header div a {
+    text-decoration: none;
+    padding: 50px 40px;
+    padding-bottom: 20px;
+}
+
+.navMenu  {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#road {
+    padding-bottom: 20px;
+}
+
+/* Box Designs */
+
+#box1 {
+    background-color: aquamarine;
+}
+#box2 {
+    background-color: gold;
+}
+#box3 {
+    background-color: lightblue;
+}
+#box4 {
+    background-color: lightcoral;
+}
+#box5 {
+    background-color: red;
+}
+#box6 {
+    background-color: seagreen;
+}
+#box7 {
+    background-color: slateblue;
+}
+#box8 {
+    background-color: plum;
+}
+#box9 {
+    background-color: rebeccapurple;
+}
+#box10 {
+    background-color: royalblue;
+}
+
+/* seperate styling for about page */
+
+.aboutInfo {
+    border-bottom: 1px dashed black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.strat {
+    margin-top: 15px;
+}
+
+.work {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;  
+}
+
+.aboutButton {
+    background-color: white;
+    margin-top: 10px;
+    padding: 7px 20px;
+    border-radius: 12%;
+}
