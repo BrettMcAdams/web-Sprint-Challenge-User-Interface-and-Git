@@ -144,3 +144,57 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+header div img {
+    padding-top: 30px;
+}
+
+header nav {
+    display: flex;
+}
+
+header div a {
+    text-decoration: none;
+    padding: 50px 40px;
+    padding-bottom: 20px;
+}
+
+.navMenu  {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#road {
+    padding-bottom: 20px;
+}
+
+#box1 {
+    background-color: aquamarine;
+}
+#box2 {
+    background-color: gold;
+}
+#box3 {
+    background-color: lightblue;
+}
+#box4 {
+    background-color: lightcoral;
+}
+#box5 {
+    background-color: red;
+}
+#box6 {
+    background-color: seagreen;
+}
+#box7 {
+    background-color: slateblue;
+}
+#box8 {
+    background-color: plum;
+}
+#box9 {
+    background-color: rebeccapurple;
+}
+#box10 {
+    background-color: royalblue;
+}
